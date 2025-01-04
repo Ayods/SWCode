@@ -22,6 +22,7 @@
 ## 数据集
 
 本项目使用公开数据集 **Labeled Faces in the Wild (LFW)**。http://vis-www.cs.umass.edu/lfw/
+
 即项目中的lfw.zip文件
 
 关键步骤包括：
