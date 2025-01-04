@@ -169,7 +169,7 @@ if __name__ == "__main__":
 2. 性别、年龄组和国籍子集的测试结果显示了性能差异。
 3. 数据增强测试表明，在低亮度和模糊条件下准确率有所下降。
 
-![image-20241229214518599](C:\Users\kaslana\AppData\Roaming\Typora\typora-user-images\image-20241229214518599.png)
+![image-20241229214518599](https://github.com/Ayods/SWCode/blob/main/result.png)
 
 
 
